@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the powerfull hand of God upon John Ingram At the reading of the booke called The leaves of the tree of life for the healing of the nations: lately written, by the light of God shining upon William Sedgwick.</title>
+            <author>Ingram, John, fl. 1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59049</idno>
+            <idno type="STC">Wing S2391A</idno>
+            <idno type="STC">ESTC R218673</idno>
+            <idno type="EEBO-CITATION">99830245</idno>
+            <idno type="PROQUEST">99830245</idno>
+            <idno type="VID">34695</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34695)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2019:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the powerfull hand of God upon John Ingram At the reading of the booke called The leaves of the tree of life for the healing of the nations: lately written, by the light of God shining upon William Sedgwick.</title>
+                  <author>Ingram, John, fl. 1648.</author>
+                  <author>Sedgwick, William, 1609 or 10-1669?, attributed name.</author>
+               </titleStmt>
+               <extent>[4], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold at the black spread-Eagle, at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Erroneously attributed by Wing to William Sedgwick.</note>
+                  <note>An unsigned passage on title page: The wrath of God is revealed from heaven against all ungodlinesse and unrighteousnesse of men, .. Fear God, and give glory to him; for the hour of his judgement is come.; 8 lines of text.</note>
+                  <note>Reproduction of the original at the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sedgwick, William, 1609 or 10-1669? --  Leaves of the tree of life --  Early works to 1800.</term>
+               <term>Private revelations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34695:1"/>
+            <!-- PDF PAGE 38 -->
+            <p>A TRVE RELATION of the <hi>Powerfull</hi> HAND OF GOD UPON <hi>JOHN INGRAM.</hi>
+            </p>
+            <p>At the reading of the Booke called <hi>The Leaves of the Tree of life for the healing of the Nations:</hi> lately written, by the light of God ſhining upon <hi>WILLIAM SEDGWICK.</hi>
+            </p>
+            <q>
+               <p>The wrath of God is revealed from Heaven againſt all ungodlineſſe and unrighteouſneſſe of men, who hold the truth in unrighteouſ<g ref="char:EOLhyphen"/>neſſe: becauſe that which may be knowne of God, is manifeſt in them; for God hath ſhewed it unto them: for the inviſible things of him from the Creation are clearly ſeen, being underſtood by the things that are made; even his Eternall Power and God-head.</p>
+            </q>
+            <q>
+               <p>Fear God, and give Glory to him; for the hour of his judgement is come.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold at the black ſpread-Eagle, at the Weſt end of <hi>Pauls.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34695:2"/>
+            <!-- PDF PAGE 39 -->
+            <p>
+               <seg rend="decorInit">V</seg>Pon the reading of the <hi>Book</hi> called THE LEAVES OF THE <hi>TREE OF LIFE, For the healing of THE NATIONS.</hi> Lately written by the light of <hi>GOD</hi> ſhining upon WILLIAM SEDGWICK. I was ſmotte dead by the power of GOD: and by the ſame power raiſed up againe; his light ſhining on me wherein I
+<pb facs="tcp:34695:3"/>
+               <!-- PDF PAGE 40 -->
+ſaw the truth of the Book; and that is was THE <hi>WORD OF GOD:</hi> I was alſo at the ſame time conſtrained to write theſe following lines.</p>
+            <div type="part">
+               <pb facs="tcp:34695:3"/>
+               <!-- PDF PAGE 40 -->
+               <p>
+                  <seg rend="decorInit">O</seg> 
+                  <hi>Earth, Earth, Earth, Heare the voice of</hi> thy <hi>Lord;</hi> who was contented to dye for thee, that thou mighteſt live; and to bee ſlaine by thee, that he might o<g ref="char:EOLhyphen"/>vercome thee with love: Thou haſt left him, and followed after ſtrangers; thou haſt murthered him, and filled the Earth with cruelty: Hee cannt ſhew thee his face of love vntil he hath ſlaine thee; vntil he hath been within thee, in that <hi>Garden</hi> where thou wenteſt to <hi>betray him,</hi> and eaten up thy fleſh there; thy great Adverſary, that conti<g ref="char:EOLhyphen"/>nually torments thee, and will not let thee have any reſt, nor know where thy reſt is; that makes thee ſuch a ſtranger vnto thy Brother that thou canſt not ſee how evceedingly heloves thee; he was conten<g ref="char:EOLhyphen"/>ted to have <hi>ſerved</hi> thee; but thou haſt rejected be<g ref="char:EOLhyphen"/>ing Lord over him: thou haſt ſold him into the hands of ſtrangers, who carried him into a farre Country; and yet thine eye did not pitie him: thou waſt in diſtreſſe for want of thoſe <hi>husks</hi> which the
+<pb n="2" facs="tcp:34695:4"/>
+                  <!-- PDF PAGE 41 -->
+ſtranger tempted thee to follow him into <hi>Egypt</hi> for: (telling thee thou ſhouldeſt have thy fil thereof, de<g ref="char:EOLhyphen"/>luding thee.) And untill then it came not into thy thoughts that thou hadſt a Father, <hi>that would have fed thee with the fineſt wheat;</hi> that put thee into a moſt pleaſant <hi>Garden,</hi> abounding with all varieties of excellencies: If thirſty, a <hi>ſpring</hi> to refreſh thee, that thou canſt not draw dry; a <hi>river</hi> for thee to ſwim in: If thou wouldeſt pleaſe thy <hi>pallate,</hi> there thou haſt the choiceſt <hi>fruites;</hi> if thy <hi>ſenſes,</hi> there thou haſt the ſweeteſt <hi>frankinſenſe:</hi> If thou would<g ref="char:EOLhyphen"/>eſt pleaſe thine <hi>eyes,</hi> there thou maieſt have a view of the moſt gloriouſeſt <hi>Objects:</hi> wouldeſt thou have <hi>Gold,</hi> there thou maieſt have the fineſt, <hi>the Gold of Opher:</hi> What art thou capable of deſiring? What canſt thou mention, but it may be found there. Wouldeſt thou have <hi>rule</hi> and <hi>power?</hi> All things there are ſubject to thee. Wouldeſt thou be a <hi>ſervant?</hi> There thou maiſt be imployed by the <hi>King of Kings</hi> who exceedingly rejoyceth in thy being made wil<g ref="char:EOLhyphen"/>ling to do his will; that would not that thou ſhould<g ref="char:EOLhyphen"/>eſt have gone ut of that <hi>Paradiſe;</hi> that is exceed<g ref="char:EOLhyphen"/>ingly ſatisfied with thy being there, to behold the riches of his treaſure, the glory of his Kingdome; &amp;c. He hath no <hi>Queene</hi> to ſhew it to, but thy ſelf: he hath none to inherite it, but thy ſelfe; and yet thou dideſt run from him, and wouldeſt not believe him: Hee called unto thee to to ſtay, but thou wouldeſt not: He ſent thy <hi>Brother</hi> to intreat thee to returne,
+<pb n="3" facs="tcp:34695:4"/>
+                  <!-- PDF PAGE 41 -->
+but thu conſentedſt to his death, and didſt caſt him into a Pit; then came ſtrangers by and they preſen<g ref="char:EOLhyphen"/>ted him with all manner of <hi>Spices,</hi> and took him a<g ref="char:EOLhyphen"/>way, and made him the chief Steward of all they had: And when he was taken out of the Pit; then didſt thou fall into it thy ſelf: thou wenteſt to buy food, and it was thine own Brother <hi>Joſeph</hi> that ſold it to thee, but thou kneweſt him not; he was pained untill he made himſelf known unto thee, and in making known himſelf, he weeps over thee, crying alas! alas! my Brother.</p>
+               <p>AWAKE therefore, ſtand up and thou ſhalt ſee none but thy brother <hi>Joſeph</hi> himſelf; whoſe Sil<g ref="char:EOLhyphen"/>ver Cup (wherein he drinks, who will Judge thee) is hid in the mouth of thy ſack WITIN THEE; there the BABE JESUS hath lain ever ſince thou waſt, and yet thou kneweſt it not.</p>
+               <p>Oh if thou feeleſt HIM ſtir there, be not afraid, its thy dearly beloved, RUN and meet him: if he puts thy fleſh to pain in comming forth out of thee, be contented to endure it: and remember that if thou doſt in ſorrow Conceive, yet thou ſhalt have <hi>Joy</hi> when the MAN CHILD is born; yea, he will fill thee ſo with Joy, that thou ſhalt be even broken with it: though ſorrow may endure for a Night, yet Joy will come in the Morning.</p>
+               <p>The bright Morning Starre APPEARES, and LOOKES THEE IN THE FACE, The dawning of the day is paſt, and the SUNNE is
+<pb n="4" facs="tcp:34695:5" rendition="simple:additions"/>
+                  <!-- PDF PAGE 42 -->
+ready to ſhine in the ſtrength of its Glory: Awake therefore, and let no voice be heard in the ſtreet of the NEW JERUSALEM (within thee) but the voice of Melodie, &amp;c. and the next word that thou heareſt him ſpeak to thee will be this, That he will take thee into his Banquetting-Houſe: he will carry thee up into his Heavenly Kingdom, and give thee to drinke of his own new Wine eternally with himſelf, and thou ſhalt thirſt no more: He will wipe away all tears from thine eies, and cauſe ſor<g ref="char:EOLhyphen"/>row and ſighing to fly away from thee: Yea, he wil change thee into his own likeneſſe; and thou ſhalt be even as he is, Singing GLORY, GLORY, GLORY, BE TO GOD ON HIGH, <hi>for ever more.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
